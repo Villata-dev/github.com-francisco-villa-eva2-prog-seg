@@ -1,1 +1,1 @@
-https://github.com/Francisco-Villa/eva2-prog-seg.git
+https://github.com/Villata-dev/github.com-francisco-villa-eva2-prog-seg
